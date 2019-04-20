@@ -1,0 +1,97 @@
+.container {
+width: 1600px;
+margin: 0 auto;
+min-width:  600px;
+background-color: #ffff;
+}
+
+.main_image {
+display: block;
+width: 1600px;
+height: 880px;
+background-image: url(../images/main_image.jpg);
+
+}
+
+.head-wrap{
+display: block;
+background-color: #ffff;
+border: 0px solid;
+height: 425px;
+width: 1195px;
+padding:  0px;
+margin: auto;
+	}
+
+.picta{
+display: inline-block;
+border: 0px solid;
+width: 33%;
+height: 425px;
+margin: 0px;
+padding: 0px;
+	}
+
+.img{
+
+width: 100px;
+height: 100px;
+background-repeat: no-repeat;
+border: 2px solid #000;
+border-radius: 50%;
+background-position: center center;
+margin: 30px auto;
+}
+.picta-inspired {
+background-image: url(../images/logburger.jpg);
+}
+.picta-rewarded {
+background-image: url(../images/logcook.jpg);
+}
+.picta-social{
+background-image: url(../images/logomoney.jpg);
+}
+.h-3" {
+	display: inline-block;
+	line-height: 0.5em;
+	margin-bottom: 1px;
+	width: 60px;
+	margin: 0;
+}
+p {
+text-align:center;
+}
+.inspired, .social, .rewarded {
+text-align:center;
+margin:20px auto;
+}
+
+.hub {
+display: block;
+background-color: #f7f7f7;
+border: 1px solid;
+height: 890px;
+width: 1195px;
+padding:  0px;
+margin: auto;
+overflow: hidden;
+}
+
+.phone, .fudi {
+display: inline-block;
+border: 1px solid;
+width: 49.8%;
+height: 100%;
+margin: 0px;
+padding: 0px;
+}
+
+.phone{
+	padding-top: 250px;
+	margin: auto;
+	text-align: center;
+}
+img {
+height: 776px;
+
+}
